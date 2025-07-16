@@ -1,0 +1,58 @@
+[
+  {
+    "id": "a1",
+    "filename": "hero-sunset.jpg",
+    "uid": "u1",
+    "size": "1920x1080",
+    "format": "JPEG",
+    "url": "https://example.com/images/hero-sunset.jpg"
+  },
+  {
+    "id": "a3",
+    "filename": "mountain-lake.jpg", 
+    "uid": "u3",
+    "size": "2560x1440",
+    "format": "JPEG",
+    "url": "https://example.com/images/mountain-lake.jpg"
+  },
+  {
+    "id": "b1",
+    "filename": "banner-nature.jpg",
+    "uid": "u4", 
+    "size": "1920x400",
+    "format": "JPEG",
+    "url": "https://example.com/banners/nature.jpg"
+  },
+  {
+    "id": "b2",
+    "filename": "banner-tech.jpg",
+    "uid": "u5",
+    "size": "1920x400", 
+    "format": "JPEG",
+    "url": "https://example.com/banners/tech.jpg"
+  },
+  {
+    "id": "thumb1",
+    "filename": "thumb-sunset-small.jpg",
+    "uid": "u6",
+    "size": "300x200",
+    "format": "JPEG",
+    "url": "https://example.com/thumbs/sunset-small.jpg"
+  },
+  {
+    "id": "thumb2",
+    "filename": "thumb-default.jpg",
+    "uid": "u7",
+    "size": "300x200",
+    "format": "JPEG", 
+    "url": "https://example.com/thumbs/default.jpg"
+  },
+  {
+    "id": "thumb3",
+    "filename": "thumb-mountain.jpg",
+    "uid": "u8",
+    "size": "300x200",
+    "format": "JPEG",
+    "url": "https://example.com/thumbs/mountain.jpg"
+  }
+]

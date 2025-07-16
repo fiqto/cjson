@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Beautiful Sunset",
+    "description": "A stunning sunset over the mountains",
+    "imageId": "img001",
+    "author": "John Doe",
+    "tags": ["nature", "sunset", "mountains"]
+  },
+  {
+    "title": "City Lights",
+    "description": "Urban landscape at night",
+    "imageId": "img002",
+    "author": "Jane Smith",
+    "tags": ["city", "night", "urban"]
+  },
+  {
+    "title": "Ocean Wave",
+    "description": "Powerful wave crashing on the shore",
+    "imageId": "img003",
+    "author": "Bob Johnson",
+    "tags": ["ocean", "wave", "nature"]
+  },
+  {
+    "title": "Forest Path",
+    "description": "A peaceful walk through the forest",
+    "imageId": "img999",
+    "author": "Alice Brown",
+    "tags": ["forest", "path", "peaceful"]
+  },
+  {
+    "title": "No Image Post",
+    "description": "This post has no associated image",
+    "author": "Mike Wilson",
+    "tags": ["text", "example"]
+  }
+]

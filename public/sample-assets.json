@@ -1,0 +1,26 @@
+[
+  {
+    "id": "img001",
+    "filename": "sunset-mountains.jpg",
+    "size": "1920x1080",
+    "format": "JPEG"
+  },
+  {
+    "id": "img002",
+    "filename": "city-night-lights.png",
+    "size": "2560x1440",
+    "format": "PNG"
+  },
+  {
+    "id": "img003",
+    "filename": "ocean-wave-crash.jpg",
+    "size": "1920x1280",
+    "format": "JPEG"
+  },
+  {
+    "id": "img004",
+    "filename": "mountain-lake.jpg",
+    "size": "1600x1200",
+    "format": "JPEG"
+  }
+]

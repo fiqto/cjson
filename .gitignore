@@ -10,6 +10,10 @@
 !.yarn/releases
 !.yarn/versions
 
+# pnpm
+.pnpm-store
+.pnpm-debug.log
+
 # testing
 /coverage
 
@@ -23,6 +27,18 @@
 # misc
 .DS_Store
 *.pem
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store?
+ehthumbs.db
 
 # debug
 npm-debug.log*
@@ -39,3 +55,18 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local development
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# temporary files
+*.tmp
+*.temp
+.cache/
+
+# logs
+logs
+*.log

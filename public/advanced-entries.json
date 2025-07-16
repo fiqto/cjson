@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Post 1",
+    "imageId": "a1",
+    "bannerImageId": "b2",
+    "content": "This is a sample blog post with multiple image references.",
+    "author": "John Doe",
+    "tags": ["technology", "web"],
+    "published": true,
+    "thumbnailId": "thumb1"
+  },
+  {
+    "title": "Post 2", 
+    "imageId": "x9",
+    "bannerImageId": "b2",
+    "content": "Another post with some missing image references.",
+    "author": "Jane Smith",
+    "tags": ["design", "ui/ux"],
+    "published": false,
+    "thumbnailId": "thumb2"
+  },
+  {
+    "title": "Post 3",
+    "imageId": "a3",
+    "bannerImageId": "b1",
+    "content": "A post with all valid image references.",
+    "author": "Bob Wilson",
+    "tags": ["photography", "art"],
+    "published": true,
+    "thumbnailId": "thumb3"
+  },
+  {
+    "title": "Post 4",
+    "content": "A post without any image references.",
+    "author": "Alice Brown",
+    "tags": ["writing", "blog"],
+    "published": true
+  }
+]
